@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 482add079596749b28688fcf18e35191
+timeCreated: 1465610813
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - PopUpPrefab: {fileID: 184754, guid: 34c1443bfbf604909ae93ed1eecd72f6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
